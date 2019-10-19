@@ -1,6 +1,6 @@
 ## Welcome to PasuruanDev official website
 
-<img src="https://avatars2.githubusercontent.com/u/36590366?s=200&v=4" style="margin-left: 50%;">
+<img src="https://avatars2.githubusercontent.com/u/36590366?s=400&u=8648e407814326f5ea79bbdd04a6291c58b894ae&v=4" style="margin-left: 50%;">
 
 We are developer community from Pasuruan, East Java, Indonesia
 
@@ -13,7 +13,7 @@ First, please fork this repository.
 
 To add new article, create new file on `_posts` folder with format name `yyyy-mm-dd-article-title.md`.
 
-Write your article content to that file with Markdown format. Like this example!
+Write your article content to that file with Markdown format. Like below!
 
 ```
 ---
